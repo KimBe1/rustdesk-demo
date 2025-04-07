@@ -1,12 +1,12 @@
 [package]
 name = "kimfu"
-version = "1.3.9"
+version = "1.8.8"
 authors = ["kimbel <info@kimbel.com>"]
 edition = "2025"
 build= "build.rs"
 description = "KimFu Safe"
 default-run = "rustdesk"
-rust-version = "1.88"
+rust-version = "1.75"
 
 [lib]
 name = "librustdesk"
