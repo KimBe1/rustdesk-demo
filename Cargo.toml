@@ -5,7 +5,7 @@ authors = ["kimbel <info@kimbel.com>"]
 edition = "2021"
 build= "build.rs"
 description = "KimFu Safe"
-default-run = "rustdesk"
+default-run = "kimfu"
 rust-version = "1.75"
 
 [lib]
