@@ -1,12 +1,12 @@
 [package]
-name = "rustdesk"
+name = "kimfu"
 version = "1.3.9"
-authors = ["rustdesk <info@rustdesk.com>"]
-edition = "2021"
+authors = ["kimbel <info@kimbel.com>"]
+edition = "2025"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
+description = "KimFu Safe"
 default-run = "rustdesk"
-rust-version = "1.75"
+rust-version = "1.88"
 
 [lib]
 name = "librustdesk"
